@@ -2,6 +2,7 @@
 
 int main(void)
 {
+  // 変数
   long a, b, r, x, tmp;
   scanf("%ld%ld", &a, &b);
   x = a * b;
